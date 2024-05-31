@@ -41,4 +41,5 @@ Additionally, the analysis showed that there was no significant difference in pr
 From the correlation analysis between selling price and sales, it was found that the higher the selling price, the lower the sales volume. This indicates that selling price can significantly affect sales volume.
 
 Lastly, based on the analysis to achieve a target profit of 15%, the recommended selling price was around Rp 17,250. With this strategy, I can target sales of 50 orders per week, with total revenue reaching Rp 10,350,000 in the next 3 months. With a 15% profit margin, the total income in 3 months could reach Rp 1,552,500.
+
 ---
