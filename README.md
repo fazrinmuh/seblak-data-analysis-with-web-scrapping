@@ -1,4 +1,4 @@
-This repository includes project documentation and the results of market insights and recommendations for local snack (seblak) sales using web scraping techniques on Tokopedia. The documentation is in Bahasa Indonesia and may contain specific terms related to the e-commerce industry.
+This repository includes project documentation and the results of market insights and recommendations for local snack (seblak) sales using web scraping techniques on Tokopedia. 
 
 🚩 Project Name: Monitors product sales and explores market insights of Tokopedia sales using web-scraping techniques.  
 🙋🏻‍♂️ Project Owner: Fazrin Muhammad  
