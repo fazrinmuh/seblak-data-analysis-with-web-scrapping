@@ -1,4 +1,4 @@
-This repository includes project documentation and the results of market insights and recommendations for local snack (seblak) sales using web scraping techniques on Tokopedia. 
+This repository contains project documentation aimed at analyzing the most favorable decision for acquiring a seblak dropshipping business on Tokopedia.
 
 🚩 Project Name: Monitors product sales and explores market insights of Tokopedia sales using web-scraping techniques.  
 🙋🏻‍♂️ Project Owner: Fazrin Muhammad  
